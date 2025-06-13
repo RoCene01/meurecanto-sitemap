@@ -1,63 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/início</loc>
-  </url>
-
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/ebook</loc>
-  </url>
-
-  <!-- CATEGORIAS -->
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/categorias/cartas-que-ficam</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/categorias/esperanças-que-abraçam</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/categorias/frases-que-acolhem</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/categorias/textos-para-recomeçar</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/categorias/textos-mais-lidos</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/categorias/sussurros-e-silêncios</loc>
-  </url>
-
-  <!-- ACHADINHOS -->
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-rô/para-se-apaixonar-por-si-mesma</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-rô/para-presentear-com-poesia</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-rô/para-escrever-com-alma</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-rô/leituras-que-tocam-a-alma</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-rô/cantinho-do-amor-à-primeira-vista</loc>
-  </url>
-
-  <!-- OUTRAS PÁGINAS -->
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/sobre</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/contato</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/política-de-privacidade</loc>
-  </url>
-  <url>
-    <loc>https://www.meurecantodoamor.com.br/termos-e-condições</loc>
-  </url>
-
+<urlset>
+<!-- criado com Gerador de Sitemap Online Gratuito www.xml-sitemaps.com -->
+<url>
+<loc>https://www.meurecantodoamor.com.br/</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/ebook</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/in%C3%ADcio</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/categorias/cartas-que-ficam</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/categorias/esperan%C3%A7as-que-abra%C3%A7am</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/categorias/frases-que-acolhem</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/categorias/textos-para-recome%C3%A7ar</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/categorias/textos-mais-lidos</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/categorias/sussurros-e-sil%C3%AAncios</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-r%C3%B4</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-r%C3%B4/para-se-apaixonar-por-si-mesma</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-r%C3%B4/para-presentear-com-poesia</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-r%C3%B4/para-escrever-com-alma</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-r%C3%B4/leituras-que-tocam-a-alma</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/achadinhos-apaixonantes-da-r%C3%B4/cantinho-do-amor-%C3%A0-primeira-vista</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/sobre</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/contato</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/mapa-do-site</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/pol%C3%ADtica-de-privacidade</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.meurecantodoamor.com.br/termos-e-condi%C3%A7%C3%B5es</loc>
+<lastmod>2025-06-13T12:53:33+00:00</lastmod>
+</url>
 </urlset>
